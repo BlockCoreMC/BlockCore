@@ -18,10 +18,10 @@
 - 🌐 **Comunidad activa**: Soporte y actualizaciones constantes.
 
 ## Empezar 🚀
-Para comenzar con BlockCore, visita nuestra [documentación oficial](https://blockcore.com/docs) o clona este repositorio:
+Para comenzar con BlockCore, clona este repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/blockcore.git
+git clone https://github.com/BlockCoreMC/blockcore.git
 ```
 
 ## Contribuir 🤝
